@@ -55,3 +55,6 @@ f"Narrative: {narrative} Context: {context} Question: {question}"
 
 ## Requirements
 All requirements are set to be installed in the notebook before, or when they are needed. The notebook works if run sequentially.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details. Disclaimer: This project was completed as a part of a university assignment.
